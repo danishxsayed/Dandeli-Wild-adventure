@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Static Pages -->
+  <url>
+    <loc>https://dandeliwildadventure.com/</loc>
+    <changefreq>daily</changefreq>
+    <priority>1.00</priority>
+  </url>
+  <url>
+    <loc>https://dandeliwildadventure.com/about</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://dandeliwildadventure.com/resorts</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.90</priority>
+  </url>
+  <url>
+    <loc>https://dandeliwildadventure.com/lodges</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.90</priority>
+  </url>
+  <url>
+    <loc>https://dandeliwildadventure.com/homestays</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.90</priority>
+  </url>
+  <url>
+    <loc>https://dandeliwildadventure.com/activities</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://dandeliwildadventure.com/rooms</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://dandeliwildadventure.com/booking</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://dandeliwildadventure.com/contact</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.70</priority>
+  </url>
+
+  <!-- Resorts Slugs -->
+  <url><loc>https://dandeliwildadventure.com/resorts/fortune-woods-river-resorts</loc><changefreq>weekly</changefreq><priority>0.80</priority></url>
+  <url><loc>https://dandeliwildadventure.com/resorts/laguna-river-resort</loc><changefreq>weekly</changefreq><priority>0.80</priority></url>
+  <url><loc>https://dandeliwildadventure.com/resorts/silver-bill-resorts-dandeli</loc><changefreq>weekly</changefreq><priority>0.80</priority></url>
+  <url><loc>https://dandeliwildadventure.com/resorts/bison-river-resort-dandeli</loc><changefreq>weekly</changefreq><priority>0.80</priority></url>
+  <url><loc>https://dandeliwildadventure.com/resorts/white-water-resort-dandeli</loc><changefreq>weekly</changefreq><priority>0.80</priority></url>
+  <url><loc>https://dandeliwildadventure.com/resorts/century-resort-dandeli</loc><changefreq>weekly</changefreq><priority>0.80</priority></url>
+  <url><loc>https://dandeliwildadventure.com/resorts/starling-river-resort-dandeli</loc><changefreq>weekly</changefreq><priority>0.80</priority></url>
+  <url><loc>https://dandeliwildadventure.com/resorts/woodpecker-resort-dandeli</loc><changefreq>weekly</changefreq><priority>0.80</priority></url>
+  <url><loc>https://dandeliwildadventure.com/resorts/aarkay-resort-dandeli</loc><changefreq>weekly</changefreq><priority>0.80</priority></url>
+  <url><loc>https://dandeliwildadventure.com/resorts/dew-drop-resort-dandeli</loc><changefreq>weekly</changefreq><priority>0.80</priority></url>
+  <url><loc>https://dandeliwildadventure.com/resorts/ansh-river-resort-dandeli</loc><changefreq>weekly</changefreq><priority>0.80</priority></url>
+  <url><loc>https://dandeliwildadventure.com/resorts/parampara-resort-dandeli</loc><changefreq>weekly</changefreq><priority>0.80</priority></url>
+  <url><loc>https://dandeliwildadventure.com/resorts/nadimane-resort-dandeli</loc><changefreq>weekly</changefreq><priority>0.80</priority></url>
+  <url><loc>https://dandeliwildadventure.com/resorts/river-edge-resort-dandeli</loc><changefreq>weekly</changefreq><priority>0.80</priority></url>
+  <url><loc>https://dandeliwildadventure.com/resorts/rain-forest-resort-dandeli</loc><changefreq>weekly</changefreq><priority>0.80</priority></url>
+  <url><loc>https://dandeliwildadventure.com/resorts/jungle-resort-dandeli</loc><changefreq>weekly</changefreq><priority>0.80</priority></url>
+  <url><loc>https://dandeliwildadventure.com/resorts/dream-flower-resort-dandeli</loc><changefreq>weekly</changefreq><priority>0.80</priority></url>
+  <url><loc>https://dandeliwildadventure.com/resorts/kings-resort-dandeli</loc><changefreq>weekly</changefreq><priority>0.80</priority></url>
+  <url><loc>https://dandeliwildadventure.com/resorts/wildernest-jungle-resort</loc><changefreq>weekly</changefreq><priority>0.80</priority></url>
+  <url><loc>https://dandeliwildadventure.com/resorts/tusker-trails-resort-dandeli</loc><changefreq>weekly</changefreq><priority>0.80</priority></url>
+  <url><loc>https://dandeliwildadventure.com/resorts/hornbill-river-resort-dandeli</loc><changefreq>weekly</changefreq><priority>0.80</priority></url>
+  <url><loc>https://dandeliwildadventure.com/resorts/mantra-jungle-resort-dandeli</loc><changefreq>weekly</changefreq><priority>0.80</priority></url>
+  <url><loc>https://dandeliwildadventure.com/resorts/whistling-woodzs-jungle-resort-in-dandeli</loc><changefreq>weekly</changefreq><priority>0.80</priority></url>
+  <url><loc>https://dandeliwildadventure.com/resorts/rajhans-retreat-resort-dandeli</loc><changefreq>weekly</changefreq><priority>0.80</priority></url>
+  <url><loc>https://dandeliwildadventure.com/resorts/parijat-resort-dandeli</loc><changefreq>weekly</changefreq><priority>0.80</priority></url>
+
+  <!-- Lodges Slugs -->
+  <url><loc>https://dandeliwildadventure.com/lodges/dandeli-holiday-inn-lodge</loc><changefreq>weekly</changefreq><priority>0.80</priority></url>
+  <url><loc>https://dandeliwildadventure.com/lodges/dandeli-river-nest-stay</loc><changefreq>weekly</changefreq><priority>0.80</priority></url>
+
+  <!-- Homestays Slugs -->
+  <url><loc>https://dandeliwildadventure.com/homestays/shikra-jungle-resort-dandeli</loc><changefreq>weekly</changefreq><priority>0.80</priority></url>
+  <url><loc>https://dandeliwildadventure.com/homestays/panther-stay-dandeli</loc><changefreq>weekly</changefreq><priority>0.80</priority></url>
+  <url><loc>https://dandeliwildadventure.com/homestays/lake-valley-dandeli-homestay</loc><changefreq>weekly</changefreq><priority>0.80</priority></url>
+  <url><loc>https://dandeliwildadventure.com/homestays/green-valley-jungle-stay</loc><changefreq>weekly</changefreq><priority>0.80</priority></url>
+  <url><loc>https://dandeliwildadventure.com/homestays/wildwest-resort-and-cottages</loc><changefreq>weekly</changefreq><priority>0.80</priority></url>
+  <url><loc>https://dandeliwildadventure.com/homestays/dark-forest-jungle-stay-dandeli</loc><changefreq>weekly</changefreq><priority>0.80</priority></url>
+  <url><loc>https://dandeliwildadventure.com/homestays/verdant-cottages</loc><changefreq>weekly</changefreq><priority>0.80</priority></url>
+  <url><loc>https://dandeliwildadventure.com/homestays/kali-home-stay-dandeli</loc><changefreq>weekly</changefreq><priority>0.80</priority></url>
+  <url><loc>https://dandeliwildadventure.com/homestays/dandeli-kingfisher-jungle-stay</loc><changefreq>weekly</changefreq><priority>0.80</priority></url>
+  <url><loc>https://dandeliwildadventure.com/homestays/dandeli-jungle-nest</loc><changefreq>weekly</changefreq><priority>0.80</priority></url>
+  <url><loc>https://dandeliwildadventure.com/homestays/vanatara-inn</loc><changefreq>weekly</changefreq><priority>0.80</priority></url>
+  <url><loc>https://dandeliwildadventure.com/homestays/wild-wings-dandeli</loc><changefreq>weekly</changefreq><priority>0.80</priority></url>
+  <url><loc>https://dandeliwildadventure.com/homestays/dandeli-nature-mist</loc><changefreq>weekly</changefreq><priority>0.80</priority></url>
+  <url><loc>https://dandeliwildadventure.com/homestays/dandeli-rangers-camp</loc><changefreq>weekly</changefreq><priority>0.80</priority></url>
+  <url><loc>https://dandeliwildadventure.com/homestays/dandeli-signature-jungle-resort</loc><changefreq>weekly</changefreq><priority>0.80</priority></url>
+  <url><loc>https://dandeliwildadventure.com/homestays/fireflies-by-flycatcher-adventures-resorts</loc><changefreq>weekly</changefreq><priority>0.80</priority></url>
+  <url><loc>https://dandeliwildadventure.com/homestays/wildwoods-resort-dandeli</loc><changefreq>weekly</changefreq><priority>0.80</priority></url>
+  <url><loc>https://dandeliwildadventure.com/homestays/riverfront-resort-dandeli</loc><changefreq>weekly</changefreq><priority>0.80</priority></url>
+</urlset>

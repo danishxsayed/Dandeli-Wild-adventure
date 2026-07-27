@@ -1,0 +1,140 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 36 43% 96%;
+    --foreground: 152 32% 15%;
+
+    --card: 36 30% 98%;
+    --card-foreground: 152 32% 15%;
+
+    --popover: 36 30% 98%;
+    --popover-foreground: 152 32% 15%;
+
+    --primary: 152 40% 28%;
+    --primary-foreground: 36 43% 96%;
+
+    --secondary: 28 52% 64%;
+    --secondary-foreground: 152 32% 15%;
+
+    --muted: 150 15% 90%;
+    --muted-foreground: 152 15% 42%;
+
+    --accent: 42 65% 48%;
+    --accent-foreground: 152 32% 15%;
+
+    --destructive: 0 84% 60%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 36 20% 85%;
+    --input: 36 20% 85%;
+    --ring: 152 40% 28%;
+
+    --radius: 0.75rem;
+
+    --gold: 42 65% 48%;
+    --sand: 28 52% 64%;
+    --forest: 152 32% 15%;
+    --emerald: 152 40% 28%;
+    --cream: 36 43% 96%;
+    --warm-brown: 20 30% 30%;
+
+    --sidebar-background: 152 32% 15%;
+    --sidebar-foreground: 36 43% 96%;
+    --sidebar-primary: 42 65% 48%;
+    --sidebar-primary-foreground: 152 32% 15%;
+    --sidebar-accent: 152 30% 22%;
+    --sidebar-accent-foreground: 36 43% 96%;
+    --sidebar-border: 152 25% 25%;
+    --sidebar-ring: 42 65% 48%;
+  }
+
+  .dark {
+    --background: 152 32% 8%;
+    --foreground: 36 43% 96%;
+    --card: 152 30% 12%;
+    --card-foreground: 36 43% 96%;
+    --popover: 152 30% 12%;
+    --popover-foreground: 36 43% 96%;
+    --primary: 42 65% 48%;
+    --primary-foreground: 152 32% 15%;
+    --secondary: 28 40% 50%;
+    --secondary-foreground: 36 43% 96%;
+    --muted: 152 20% 18%;
+    --muted-foreground: 150 10% 60%;
+    --accent: 152 40% 28%;
+    --accent-foreground: 36 43% 96%;
+    --destructive: 0 62% 30%;
+    --destructive-foreground: 0 0% 100%;
+    --border: 152 20% 20%;
+    --input: 152 20% 20%;
+    --ring: 42 65% 48%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground font-body antialiased;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-heading;
+  }
+}
+
+@layer utilities {
+  .text-gradient-gold {
+    @apply bg-clip-text text-transparent;
+    background-image: linear-gradient(135deg, hsl(42 65% 48%), hsl(28 52% 64%), hsl(42 65% 55%));
+  }
+
+  .bg-gradient-forest {
+    background: linear-gradient(135deg, hsl(152 32% 15%), hsl(152 40% 22%));
+  }
+
+  .bg-gradient-hero {
+    background: linear-gradient(180deg, rgba(0,0,0,0.6) 0%, rgba(0,0,0,0.3) 40%, rgba(0,0,0,0.5) 100%);
+  }
+
+  .bg-gradient-gold {
+    background: linear-gradient(135deg, hsl(42 65% 48%), hsl(28 52% 64%));
+  }
+
+  .shadow-luxury {
+    box-shadow: 0 20px 60px -15px hsl(152 32% 15% / 0.15),
+                0 8px 20px -8px hsl(42 65% 48% / 0.1);
+  }
+
+  .shadow-gold {
+    box-shadow: 0 8px 30px -5px hsl(42 65% 48% / 0.3);
+  }
+}
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: hsl(36 43% 96%);
+}
+
+::-webkit-scrollbar-thumb {
+  background: hsl(152 40% 28%);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: hsl(152 32% 15%);
+}
