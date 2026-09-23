@@ -78,7 +78,7 @@ const Footer = () => {
           </div>
         </div>
 
-        <div className="border-t border-cream/10 mt-12 pt-8 text-center text-sm text-cream/50">
+        <div className="border-t border-cream/10 mt-12 pt-8 pb-16 md:pb-0 text-center text-sm text-cream/50">
           <p>© {new Date().getFullYear()} Dandeli Wild Adventure. All rights reserved.</p>
         </div>
       </div>
